@@ -14,6 +14,9 @@ private void empName() {
 SampleJava e = new SampleJava();
 		e.empId();
 		e.empName();
+		e.empAge();
 	}
-
+private void empAge() {
+System.out.println("age");
+}
 }
