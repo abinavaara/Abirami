@@ -14,6 +14,11 @@ private void empName() {
 SampleJava e = new SampleJava();
 		e.empId();
 		e.empName();
+		e.empPhNo();
+	}
+	private void empPhNo() {
+		System.out.println("ph no ");
+	}
+	
 	}
 
-}
